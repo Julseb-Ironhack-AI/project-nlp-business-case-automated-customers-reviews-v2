@@ -24,6 +24,12 @@ This AI-powered tool classifies review sentiments, groups similar opinions, and 
 
 ---
 
+## Report
+
+<a href="./Project-NLP-Customer-reviews.pdf" target="_blank" rel="noreferrer noopener">Find the report here</a>
+
+---
+
 ## ✨ Features
 
 - 🧼 **Data Preprocessing**  
